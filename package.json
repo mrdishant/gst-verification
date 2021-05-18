@@ -1,0 +1,36 @@
+{
+  "name": "gst-verification",
+  "version": "1.0.0",
+  "description": "A wrapper around the Appyflow GST Verification API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdishant/gst-verification.git"
+  },
+  "keywords": [
+    "gst-verification",
+    "gstn",
+    "gstn-validation",
+    "gst verify api",
+    "verify gst api",
+    "api gst verify",
+    "gst-validation",
+    "gst validation",
+    "gst-verify-api",
+    "verify-gst",
+    "gst-verify",
+    "gst number verification"
+  ],
+  "author": "Appyflow Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdishant/gst-verification/issues"
+  },
+  "homepage": "https://github.com/mrdishant/gst-verification#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
